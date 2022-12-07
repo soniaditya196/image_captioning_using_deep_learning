@@ -1,0 +1,10 @@
+scipy==0.18.1
+numpy==1.11.3
+matplotlib==1.5.3
+pandas==0.18.1
+statsmodels==0.6.1
+sklearn==0.0.post1
+theano==0.8.0
+tensorflow==2.2.0
+keras==1.2.1
+nltk==3.7
